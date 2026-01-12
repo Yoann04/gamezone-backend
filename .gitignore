@@ -18,3 +18,14 @@
 /public/assets/
 /assets/vendor/
 ###< symfony/asset-mapper ###
+
+# Mac
+.DS_Store
+**/.DS_Store
+
+# Backup / dumps
+backup.sql
+*.sql
+
+# Env (sécurité)
+.env
