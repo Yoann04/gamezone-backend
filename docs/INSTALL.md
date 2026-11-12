@@ -2,7 +2,7 @@
 
 ## Prérequis
 
-- PHP 8.4+
+- PHP 8.1 minimum (8.3+ pour lancer les tests PHPUnit 12)
 - Composer
 - MySQL 8+
 - Symfony CLI (optionnel)

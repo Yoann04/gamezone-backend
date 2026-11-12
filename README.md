@@ -21,7 +21,7 @@ Ce dépôt contient **uniquement le backend API**, développé avec **Symfony**.
 
 ## Stack technique
 
-- **Langage** : PHP 8.2+
+- **Langage** : PHP 8.1+ (8.3+ pour lancer les tests PHPUnit 12)
 - **Framework** : Symfony 6 LTS
 - **Base de données** : MySQL
 - **ORM** : Doctrine
